@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tonels.fantasticpalmtree.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tonels.fantasticpalmtree.MyBundle
 
 class MyApplicationService {
 
